@@ -19,4 +19,4 @@ More documents or individual downloads are available at https://buildingdata.xau
 
 ## License
 
-The code is available under the [MIT license](https://github.com/buildingdata/buildingdata-web/blob/master/LICENSE)
+The code is available under the [GPL-3.0 license](https://github.com/buildingdata/csrdd-dataset/blob/main/LICENSE)
