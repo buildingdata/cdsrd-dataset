@@ -96,6 +96,8 @@ h1~p {
 p {
   margin-top: 0;
   margin-bottom: 1em;
+  display: inline-table;
+  margin-right: 22px;
 }
 
 p:last-child {
