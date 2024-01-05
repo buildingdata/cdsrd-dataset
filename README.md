@@ -17,7 +17,7 @@ China Solsr Radiation Daily Dataset. An export file of this data is available on
 Provide zip-compressed `.csv` data format, and zip-compressed `.sql` format.
 
 + all-stations-data.zip (CSV Format)
-+ all-stations-data.sql.zip (SQL Format)
++ all-stations-data-sql.zip (SQL Format)
 
 More documents or individual downloads are available at https://buildingdata.xauat.edu.co.uk/csrdd-dataset/
 
