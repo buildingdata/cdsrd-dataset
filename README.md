@@ -20,7 +20,7 @@ Provide zip-compressed `.csv` data format, and zip-compressed `.sql` format.
 + all-stations-data.zip (CSV Format)
 + all-stations-data-sql.zip (SQL Format)
 
-More documents or individual downloads are available at https://buildingdata.xauat.edu.co.uk/cdsrd-dataset/
+More documents or individual downloads are available at https://buildingdata.xauat.edu.com/cdsrd-dataset/
 
 ### 3. Program
 
