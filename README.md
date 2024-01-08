@@ -7,7 +7,7 @@
 
 ## Info
 
-China Solsr Radiation Daily Dataset. An export file of this data is available on the [release page](https://github.com/buildingdata/csrdd-dataset/releases).
+China Solar Radiation Daily Dataset. An export file of this data is available on the [release page](https://github.com/buildingdata/cdsrd-dataset/releases).
 
 ### 1. Station Information
 
@@ -28,4 +28,4 @@ More documents or individual downloads are available at [https://buildingdata.xa
 
 ## License
 
-The code is available under the [GPL-3.0 license](https://github.com/buildingdata/csrdd-dataset/blob/main/LICENSE)
+The code is available under the [GPL-3.0 license](https://github.com/buildingdata/cdsrd-dataset/blob/main/LICENSE)
