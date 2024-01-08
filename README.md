@@ -1,8 +1,9 @@
 <p align="center">
  <img width="100px" src="favicon.ico" align="center">
- <h2 align="center">China Solsr Radiation Daily Dataset</h2>
+ <h2 align="center">China Solar Radiation Daily Dataset</h2>
  <p align="center">中国太阳辐射日数据集</p>
 </p>
+
 
 ## Info
 
@@ -23,7 +24,7 @@ More documents or individual downloads are available at https://buildingdata.xau
 
 ### 3. Program
 
-- CSRDD-Data-Processing-Code-of-MATLAB.pdf
+- CDSRD-Data-Processing-Code-of-MATLAB.pdf
 
 ## License
 
