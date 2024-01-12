@@ -1,13 +1,13 @@
 <p align="center">
  <img width="100px" src="favicon.ico" align="center">
- <h2 align="center">China Solar Radiation Daily Dataset</h2>
+ <h2 align="center">China Daily Solar Radiation Dataset</h2>
  <p align="center">中国太阳辐射日数据集</p>
 </p>
 
 
 ## Info
 
-China Solar Radiation Daily Dataset. An export file of this data is available on the [release page](https://github.com/buildingdata/cdsrd-dataset/releases).
+China Daily Solar Radiation Dataset. An export file of this data is available on the [release page](https://github.com/buildingdata/cdsrd-dataset/releases).
 
 ### 1. Station Information
 
